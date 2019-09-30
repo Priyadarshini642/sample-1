@@ -1,2 +1,6 @@
 hello  there
+<<<<<<< HEAD
 hi
+=======
+priya
+>>>>>>> fe3f02aed6ddca220fa1bbc27d8aab0b4f6e86d9
